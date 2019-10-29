@@ -1,0 +1,3 @@
+ app:
+    path: /calculator2/{age}
+    defaults: {_controller: AppBundle:Calculator2:index}
